@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Image-Carousrl-App/static/css/main.aac36773.css",
+    "main.js": "/Image-Carousrl-App/static/js/main.281a0f76.js",
+    "static/js/453.2966c2eb.chunk.js": "/Image-Carousrl-App/static/js/453.2966c2eb.chunk.js",
+    "static/media/image6.jpg": "/Image-Carousrl-App/static/media/image6.19b600ab8edbe86fa06b.jpg",
+    "static/media/image4.jpg": "/Image-Carousrl-App/static/media/image4.6470117eb33301d8c9fe.jpg",
+    "static/media/image2.jpg": "/Image-Carousrl-App/static/media/image2.a47c0ebfbbc4873e60c4.jpg",
+    "static/media/image3.jpg": "/Image-Carousrl-App/static/media/image3.fd24419c6de91f1e49ea.jpg",
+    "static/media/image1.jpg": "/Image-Carousrl-App/static/media/image1.64205aa5b20241f03d8f.jpg",
+    "static/media/image5.jpg": "/Image-Carousrl-App/static/media/image5.2ddfa9ad5757702cd093.jpg",
+    "index.html": "/Image-Carousrl-App/index.html",
+    "main.aac36773.css.map": "/Image-Carousrl-App/static/css/main.aac36773.css.map",
+    "main.281a0f76.js.map": "/Image-Carousrl-App/static/js/main.281a0f76.js.map",
+    "453.2966c2eb.chunk.js.map": "/Image-Carousrl-App/static/js/453.2966c2eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac36773.css",
+    "static/js/main.281a0f76.js"
+  ]
+}
