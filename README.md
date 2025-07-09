@@ -38,4 +38,4 @@ A simple React web app that displays a responsive image slider with smooth anima
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mohamedEltoor/Image-Carousel-App.git
+https://mohamedeltoor.github.io/Image-Carousel-App/
