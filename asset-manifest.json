@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Image-Carouserl-App/static/css/main.aac36773.css",
-    "main.js": "/Image-Carouserl-App/static/js/main.08f6d3bb.js",
-    "static/js/453.2966c2eb.chunk.js": "/Image-Carouserl-App/static/js/453.2966c2eb.chunk.js",
-    "static/media/image6.jpg": "/Image-Carouserl-App/static/media/image6.19b600ab8edbe86fa06b.jpg",
-    "static/media/image4.jpg": "/Image-Carouserl-App/static/media/image4.6470117eb33301d8c9fe.jpg",
-    "static/media/image2.jpg": "/Image-Carouserl-App/static/media/image2.a47c0ebfbbc4873e60c4.jpg",
-    "static/media/image3.jpg": "/Image-Carouserl-App/static/media/image3.fd24419c6de91f1e49ea.jpg",
-    "static/media/image1.jpg": "/Image-Carouserl-App/static/media/image1.64205aa5b20241f03d8f.jpg",
-    "static/media/image5.jpg": "/Image-Carouserl-App/static/media/image5.2ddfa9ad5757702cd093.jpg",
-    "index.html": "/Image-Carouserl-App/index.html",
-    "main.aac36773.css.map": "/Image-Carouserl-App/static/css/main.aac36773.css.map",
-    "main.08f6d3bb.js.map": "/Image-Carouserl-App/static/js/main.08f6d3bb.js.map",
-    "453.2966c2eb.chunk.js.map": "/Image-Carouserl-App/static/js/453.2966c2eb.chunk.js.map"
+    "main.css": "/Image-Carousel-App/static/css/main.aac36773.css",
+    "main.js": "/Image-Carousel-App/static/js/main.b3026a5d.js",
+    "static/js/453.2966c2eb.chunk.js": "/Image-Carousel-App/static/js/453.2966c2eb.chunk.js",
+    "static/media/image6.jpg": "/Image-Carousel-App/static/media/image6.19b600ab8edbe86fa06b.jpg",
+    "static/media/image4.jpg": "/Image-Carousel-App/static/media/image4.6470117eb33301d8c9fe.jpg",
+    "static/media/image2.jpg": "/Image-Carousel-App/static/media/image2.a47c0ebfbbc4873e60c4.jpg",
+    "static/media/image3.jpg": "/Image-Carousel-App/static/media/image3.fd24419c6de91f1e49ea.jpg",
+    "static/media/image1.jpg": "/Image-Carousel-App/static/media/image1.64205aa5b20241f03d8f.jpg",
+    "static/media/image5.jpg": "/Image-Carousel-App/static/media/image5.2ddfa9ad5757702cd093.jpg",
+    "index.html": "/Image-Carousel-App/index.html",
+    "main.aac36773.css.map": "/Image-Carousel-App/static/css/main.aac36773.css.map",
+    "main.b3026a5d.js.map": "/Image-Carousel-App/static/js/main.b3026a5d.js.map",
+    "453.2966c2eb.chunk.js.map": "/Image-Carousel-App/static/js/453.2966c2eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aac36773.css",
-    "static/js/main.08f6d3bb.js"
+    "static/js/main.b3026a5d.js"
   ]
 }
